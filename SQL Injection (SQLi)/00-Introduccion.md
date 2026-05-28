@@ -18,3 +18,6 @@ Todo ello, se puede detectar mediante un conjunto sistematico de pruebas en todo
 
 ✴️ La mayoria de vulnerabilidades se producen en la clausula WHERE de una consulta SELECT. Algunos ejemplos mas comunes son: **Recuperacion de datos ocultos, subvertir la logica de la aplicacion, ataques UNION, SQL Blind**
 
+#
+
+:dart: SQL Injection cheat sheets: https://portswigger.net/web-security/sql-injection/cheat-sheet
