@@ -13,7 +13,7 @@ devuelve la query original. Uno de los metodos es a traves de ORDER BY se puede 
 Cuando la columna indice especificada se exceda al numero actual de columnas , **la base de datos devolvera un error estilo: INTERNAL SERVER ERROR , The ORDER BY position number 3 is out of range of the number of items in the select list**
 
 ###
-Otra manera es realizar con **UNION SELECT** . La idea es la misma:
+Otra manera es realizar con **UNION SELECT** . La idea es la misma (poner tantos NULL en las columnas hasta con dar con el numero exacto que devuelve la query de negocio para recuperar la informacion):
 `` 'UNION SELECT NULL -- -
 'UNION SELECT NULL, NULL -- -
 'UNION SELECT NULL, NULL, NULL -- -
