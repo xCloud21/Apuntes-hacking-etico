@@ -27,3 +27,8 @@ Para ello, se visualiza en el siguiente ejemplo:
 
 <img width="1555" height="920" alt="image" src="https://github.com/user-attachments/assets/d7594ed3-f04b-430b-8dc9-da4aee478b21" />
 
+###
+Otro ejemplo usando UNION para devolver una columna un String y el resto vacias:
+<img width="1406" height="904" alt="image" src="https://github.com/user-attachments/assets/3ea0064a-4fdd-480d-9b1c-4240220993a6" />
+
+
